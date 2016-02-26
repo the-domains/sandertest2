@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sandertest2]]></title>
         <description><![CDATA[sandertest2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sandertest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 12:50:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 12:52:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sandertest2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welkom op mijn website]]></title>
+            <description><![CDATA[<article><h1>Welkom op mijn website</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit, mauris non placerat auctor, dolor quam lacinia diam, at interdum metus felis eget purus. Suspendisse tristique ipsum tempus urna fringilla, vitae vestibulum nisi auctor. </p></article>]]></description>
+            <link>https://thegrid.ai/sandertest2/welkom-op-mijn-website/index.html</link>
+            <guid isPermaLink="false">61a290c0-117b-4d27-8ed8-8f9a2cbe86c5</guid>
+            <pubDate>Fri, 26 Feb 2016 12:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>testttttt</p>]]></description>
-            <link>undefinedb155c752-a0e8-4474-8c81-f56d6e800d0c/index.html</link>
+            <link>https://thegrid.ai/sandertest2/b155c752-a0e8-4474-8c81-f56d6e800d0c/index.html</link>
             <guid isPermaLink="false">b155c752-a0e8-4474-8c81-f56d6e800d0c</guid>
             <pubDate>Fri, 26 Feb 2016 12:50:07 GMT</pubDate>
         </item>
